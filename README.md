@@ -1,4 +1,4 @@
-# compu_neuro
-Projects in computational neuroscience
+# Computational Neuroscience
+Projects in computational neuroscience, PhD-level class taught at the University of Chicago.
 
-Main coding language is Matlab
+Main coding language is Matlab.
